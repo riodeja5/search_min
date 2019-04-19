@@ -1,0 +1,7 @@
+[package]
+name = "sand_box"
+version = "0.1.0"
+authors = ["Shota <riodeja.5.shota@gmail.com>"]
+edition = "2018"
+
+[dependencies]
